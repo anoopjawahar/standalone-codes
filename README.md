@@ -9,8 +9,8 @@ decoder -- uncompress the series of timestamps encoded by the coder
 
 compilation
 -------------
-gcc -lm coder_a.c -o coder
-gcc -lm decoder_a.c -o decoder
+gcc -lm coder.c -o coder
+gcc -lm decoder.c -o decoder
 
 
 
